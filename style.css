@@ -1,0 +1,18 @@
+body::before{
+    display: block;
+    content: '';
+    height: 60px;
+}
+
+section .d-sm-flex h1{
+    color: white;
+}
+
+#map{
+    height: 600px;
+    width: 100%;
+}
+
+html {
+    scroll-behavior: smooth !important;
+  }
